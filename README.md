@@ -1,7 +1,7 @@
 # 👋 Welcome to @JTzLinux's GitHub!
 
 ## About Me
-- **📡 Amateur Radio Enthusiast** | **🐧 Linux Lover** | **💻 Developer in Training**
+- **📡 Amateur Radio Enthusiast** | **🐧 Linux Lover** | **💻 Hobby Developer**
 - **👨‍💻 Currently Learning:** Java
 - **🌱 Always Exploring:** New coding languages, tech trends, and ways to improve my Linux setup.
 
