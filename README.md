@@ -22,4 +22,4 @@ I’m always up for a chat or to lend a hand if you need help!
 Feel free to check out my projects below. While I’m still growing as a developer, I’m always eager to learn and contribute!
 
 ---
-"Technology, like art, is a soaring exercise of the human imagination." – Daniel Bell
+"Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson, from the book Structure and Interpretation of Computer Programs (1984).
